@@ -1,1 +1,4 @@
 # SocialWebpage
+This is a website project that I learned to create from a YouTube tutorial. It is a simple but functional website that showcases some of my skills and interests. The website uses HTML, CSS and JavaScript to create a responsive and interactive design. The website also has some features such as a contact form, a gallery and a blog. One of the functionalities that I have added to the website is the ability to change the theme of the website through a control panel. You can choose from different colors and fonts to customize the appearance of the website according to your preference.
+
+The purpose of this project is to practice and improve my web development skills, as well as to share some of my work and hobbies with others. I hope you find this project interesting and useful. If you have any feedback or suggestions, please feel free to contact me or open an issue on GitHub. Thank you for visiting my website!
